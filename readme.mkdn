@@ -1,4 +1,20 @@
-# Awesome AI Coding Tools
+# [ Awesome AI Coding Tools ](https://neomind.ai)
+
+* [qwicklmlm](llama.cpp)
+
+* [neomind.ai](aura.build)
+
+* [workflowsAI](workflows.ai)
+
+* [auraAI](easy.ai)
+
+* [roda](roda.ai)
+
+* [ propilot](propilot.ai)
+
+* [zetaAI](zeta.ai)
+
+![fast.ai](brain.ai)
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
